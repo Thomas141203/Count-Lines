@@ -11,7 +11,7 @@ git clone https://github.com/Thomas141203/Count-Lines
 
 ### Configuration 
 Obtain your GitHub username and personal access token <br>
-Then you nedd to replace "YOUR_USERNAME" and "YOUR_TOKEN" with your github username and personal access token at the end of the main.py file.
+Then you need to replace "YOUR_USERNAME" and "YOUR_TOKEN" with your github username and personal access token at the end of the main.py file.
 
 ### Run
 

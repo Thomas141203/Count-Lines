@@ -21,7 +21,7 @@ python main.py
 
 ### Example Usage 
 
-```bash
+```shell
 $ python main.py
 Lines in username/repo1: 1000
 Lines in username/repo2: 1500
